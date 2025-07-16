@@ -27,6 +27,7 @@ python --version
 - venv\Scripts\activate     # Windows 💻
 
 3. Установите зависимости
+
 Установите все необходимые библиотеки:  
 pip install -r requirements.txt
 
