@@ -28,30 +28,30 @@ python --version
 
 3. Установите зависимости
 
-Установите все необходимые библиотеки:  
-pip install -r requirements.txt
+- Установите все необходимые библиотеки:  
+  pip install -r requirements.txt
 
 4. Настройте API-ключи
 
-Создайте файл .env в корневой папке и добавьте свои ключи:  
+- Создайте файл .env в корневой папке и добавьте свои ключи:  
 
-TELEGRAM_TOKEN=ваш_токен_бота
+- TELEGRAM_TOKEN=ваш_токен_бота
 
-HAVEIBEENPWNED_API_KEY=ваш_ключ_hibp
+- HAVEIBEENPWNED_API_KEY=ваш_ключ_hibp
 
-LEAKCHECK_API_KEY=ваш_ключ_leakcheck
+- LEAKCHECK_API_KEY=ваш_ключ_leakcheck
 
 
-🌟 TELEGRAM_TOKEN: Получите у @BotFather в Telegram.
+ 🌟 TELEGRAM_TOKEN: Получите у @BotFather в Telegram.
 
-🔑 HAVEIBEENPWNED_API_KEY: Зарегистрируйтесь на haveibeenpwned.com.
+ 🔑 HAVEIBEENPWNED_API_KEY: Зарегистрируйтесь на haveibeenpwned.com.
 
-🔐 LEAKCHECK_API_KEY: Получите на leakcheck.io.
+ 🔐 LEAKCHECK_API_KEY: Получите на leakcheck.io.
 
 5. Запустите бота
 
 - Готовы к старту? 🚀  
-python main.py
+  python main.py
 
 🎮 Использование
 
